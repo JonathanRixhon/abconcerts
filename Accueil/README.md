@@ -110,7 +110,7 @@ Oui en ignorant les erreurs et avertissements.
 
 Pour l'analyse de l'outline j'ai utilisé [Headings Map](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi) qui est une extension sur Chrome qui liste les titres de la page.
 
-Ce titrage doit être comme une table des matières des sites et dans ce cas-ci, on peut constater que l'outline est mauvais.
+Ce titrage doit être comme la table des matières d'un site et dans ce cas-ci, on peut constater que l'outline est mauvais.
 
 ![headingsmap headers structure](./img/outline-headers-ab.png)
 
@@ -118,7 +118,7 @@ Ce titrage doit être comme une table des matières des sites et dans ce cas-ci,
 ![headingsmap html5](./img/outline-html5-ab.png)
 
 
-J'ai dont ajouter des titres afin de rendre l'outline correct et complète
+J'ai donc ajouté des titres afin de rendre l'outline correct et complète
 
 ![headingsmap html5](./img/outline2.png)
 ![headingsmap headers structure](./img/outline1.png)
@@ -127,7 +127,7 @@ J'ai dont ajouter des titres afin de rendre l'outline correct et complète
 
 ## Rapport de contraste
 
-Le contrast des éléments sur la page d'accueil était assez affolant.
+Le contrast des éléments sur la page d'accueil était assez flashy.
 
 ![contrast](./img/contrast1.png)
 ![contrast](./img/contrast2.png)
@@ -147,7 +147,7 @@ Pour remédier à cette situation j'ai commencé par chercher des couleurs pour 
 ## Microdata
 
 La page d'accueil ne contient aucune microdata.
-Le site utilise du JSON-LD pour la structuration des données du site et de l'ASBL.
+Pour le référencement, le site utilise du JSON-LD.
 
 Mais ce n'est pas complet.
 
