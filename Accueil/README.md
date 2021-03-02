@@ -29,6 +29,7 @@ Le score est de **7**/29 :arrow_right: **24,137931**% :arrow_right:  **24**% de 
 1. **Les titres de pages sont-ils significatifs?**
 
 Le titre n'était pas très significatif pour la page d'accueil.
+
 ![title](./img/title.png)
 ![title](./img/title-code.png)
 
@@ -113,8 +114,6 @@ Pour l'analyse de l'outline j'ai utilisé [Headings Map](https://chrome.google.c
 Ce titrage doit être comme la table des matières d'un site et dans ce cas-ci, on peut constater que l'outline est mauvais.
 
 ![headingsmap headers structure](./img/outline-headers-ab.png)
-
-
 ![headingsmap html5](./img/outline-html5-ab.png)
 
 
@@ -140,6 +139,9 @@ Pour remédier à cette situation j'ai commencé par chercher des couleurs pour 
 
 ![contrast](./img/contrast-correct1.png)
 ![contrast](./img/contrast-correct2.png)
+
+![Hover Before](./img/hover-before.gif)
+![Hover After](./img/hover-after.gif)
 
 
 ***
@@ -203,7 +205,6 @@ Il faudrait rajouter, numéro de TVA de l'entreprise, email, et adresse physique
 Le site charge plutôt rapidement, mais la rapidité peut être encore à améliorer. Comme déjà la taille des images sources qui sont affichées en petit alors qu'elles sont chargées en grand format.
 
 ![gtMetrix 1](./img/gtmetrix.png)
-
 ![gtMetrix 2](./img/gtmetrix-issues.png)
 
 ***
