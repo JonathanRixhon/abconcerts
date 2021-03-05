@@ -45,9 +45,8 @@ _Page https://www.abconcerts.be/fr/agenda/the-delines/a105J000000WCNuQAO_
 
 - Il manque des dd dans un dl, il n'y a qu'un dt,
 - Un bouton es enfant d'un a,
-- Il manque des alt pour tous les partenaires.
-
-![Outline](./img/html.png)
+  <!-- - Il manque des alt pour tous les partenaires.-->
+  ![Outline](./img/html.png)
 
 ## Outline
 
