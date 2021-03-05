@@ -3,7 +3,10 @@
 _Projet d'analyse du site https://www.abconcerts.be/_
 
 [Analse de la page Accueil](./Accueil/README.md)
+
 [Analse de la page concert](./Concert/README.md)
+
+[Analse de la page de location de salle](./Louer_une_salle/README.md)
 
 <!-- [Analse de la page de location de salle] -->
 
@@ -36,7 +39,6 @@ Entre 18 et 50 environ. Le public cible peut être des passionnés de musique en
 
 1. Vous êtes une entreprise et vous souhaitez louer une salle qui a une capacité de 50 personnes, de préférence avec des places assises afin d'y présenter votre nouveau produit,
 
-2. Ton neveu 'Jean-Michel' va avoir 11 ans, le 2 mars.
-   Peut-il assister à un concert et combien coûtera son billet ? Quels concerts sont proposés ce jour-là?
+2. Ton neveu 'Jean-Michel' va avoir 11 ans, le 2 mars. Peut-il assister à un concert et combien coûtera son billet ? Quels concerts sont proposés ce jour-là?
 
 3. Lors d’un concert, vous avez perdu votre bracelet en or massif. Renseignez-vous sur le site internet afin de trouver une solution à votre problème.
