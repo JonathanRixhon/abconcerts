@@ -23,7 +23,7 @@ Se site permet notamment de réserver des places de concerts, louer des salles, 
 Les objectifs du site sont :
 
 - Vendre des places de concert,
-- Mettre en aleur des artiste pour que l'utilisateur se renseigne à son sujet et qu'il achète des places pour le voir,
+- Mettre en valeur des artiste pour que l'utilisateur se renseigne à son sujet et qu'il achète des places pour le voir,
 - Permettre aux entreprises de louer une salle,
 - Montrer à l'utilisateur les concerts proche de ses artistes favoris.
 - Donner un maximum d'information concernant l'ancienne Blegique et don fonctionnement.
@@ -31,7 +31,7 @@ Les objectifs du site sont :
 
 ## Public cible
 
-Entre 18 et 50 environ. Le public cible peut être des passionnés de musique en quête de nouveau concerts à aller voir, mais aussi des parents qui souaitent acheter une place de concert pour leurs enfants. Il est aussi composé de chef d'entreprise qui souhaitent louer une salle pour des raisons diverses.
+Entre 18 et plus. Le public cible peut être des passionnés de musique en quête de nouveau concerts à aller voir, mais aussi des parents qui souaitent acheter une place de concert pour leurs enfants. Il est aussi composé de chef d'entreprise qui souhaitent louer une salle pour des raisons diverses.
 
 ## Tests utilisateurs
 
